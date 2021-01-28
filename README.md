@@ -20,5 +20,6 @@ In this Python Programming, the following topics that I've learned from Myanmar 
 18.	Pie Charts
 19.	Plotting Tables
 20.	Web Scraping
-21.	Scraping Wikipedia I had so much knowledge while I was following through this Python Programming Series in both theoretically and practically. Thanks a lot Myanmar Data Science for sharing such a valuable content with me.
+21.	Scraping Wikipedia
+I had so much knowledge while I was following through this Python Programming Series in both theoretically and practically. Thanks a lot Myanmar Data Science for sharing such a valuable content with me.
 
